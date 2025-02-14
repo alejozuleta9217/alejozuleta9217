@@ -24,15 +24,8 @@ Thought: "Life is full of choices... Choose wisely!"<img src="https://github.com
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I am currently developing a tool for booking sports venues<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/><br>
-✔ I am currently learning English and scalable software<br>
-✔ Ask me what you want, if I'm alive I'll answer you in seconds 😉<br>
-✔ Fun fact: I always try to learn something new and then sleep until it's stored in the brain 😎<br><br><br><br>
-
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Javascript, PHP, Nodejs, MySQL, ORACLE, C#** 
+- 🔭 I’m currently working on **React, Javascript, PHP, Nodejs, MySQL, ORACLE, C#** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/><br>
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -92,6 +85,13 @@ Thought: "Life is full of choices... Choose wisely!"<img src="https://github.com
       <br>
     </p>
   </samp>
+</div>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=alejozuleta9217&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alejozuleta9217)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alejozuleta9217&theme=material-palenight)](https://github.com/alejozuleta9217)
 </div>
 
 
