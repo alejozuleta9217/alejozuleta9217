@@ -172,8 +172,8 @@ Educational Management Platform focused on
 
 ## 📊 Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=alejozuleta9217&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alejozuleta9217)
+[![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejozuleta9217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/alejozuleta9217)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alejozuleta9217&theme=tokyonight&hide_border=true)](https://github.com/alejozuleta9217)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alejozuleta9217&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
